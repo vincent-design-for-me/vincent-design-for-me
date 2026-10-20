@@ -32,7 +32,6 @@ Let people focus on judgment, let systems handle execution, and let every result
 
 ## Find me
 
-- Website: [designformetoday.com](https://designformetoday.com)
 - LinkedIn: [Vincent Zhang](https://www.linkedin.com/in/zhixianzhang/)
 - Email: zhangzhixianbb@gmail.com
 - X: [@vincentzhangzx](https://x.com/vincentzhangzx)
