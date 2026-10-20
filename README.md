@@ -14,7 +14,7 @@ I'm a Product Manager at **[99.co](https://99.co)** in Singapore, focused on int
 
 Closed source, running in production:
 
-- **[Digital V](https://designformetoday.com)** — brand, website and product UI design for SMEs and startups
+- **[Digital V]** — brand, website and product UI design for SMEs and startups
 - **Real Estate AI Enablement** — RAG chatbot and knowledge distillation system for a 300+ agent property team
 - **In progress:**
   - **Deep Reader** (AI reading companion)
