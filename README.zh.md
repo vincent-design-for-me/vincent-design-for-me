@@ -14,7 +14,7 @@
 
 闭源，在生产环境运行：
 
-- **[Digital V](https://designformetoday.com)** — 为中小企业和初创公司提供品牌、网站和产品 UI 设计
+- **[Digital V]** — 为中小企业和初创公司提供品牌、网站和产品 UI 设计
 - **房地产 AI 赋能** — 为 300+ 人的地产经纪团队搭建 RAG 问答机器人与知识沉淀体系
 - **正在做：**
   - **Deep Reader**（AI 阅读助手）
@@ -32,7 +32,6 @@
 
 ## 联系我
 
-- 网站：[designformetoday.com](https://designformetoday.com)
 - LinkedIn：[Vincent Zhang](https://www.linkedin.com/in/zhixianzhang/)
 - 邮箱：zhangzhixianbb@gmail.com
 - X: [@vincentzhangzx](https://x.com/vincentzhangzx)
